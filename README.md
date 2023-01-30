@@ -30,7 +30,8 @@ Solutions can be found under solutions folder.
 Also user can follow the solving process from terminal.
 
 Correct found path is marked with: 
-```bash . 
+```bash 
+. 
 ```
 Partial path is marked with: 
 ```bash
